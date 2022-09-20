@@ -1,0 +1,18 @@
+2022-09-08 15:22:59,910 :INFO :test_editProfile :Nishita
+2022-09-08 15:22:59,911 :INFO :test_editProfile :Toshi
+2022-09-08 15:25:12,762 :INFO :test_editProfile :Nishita
+2022-09-08 15:25:12,762 :INFO :test_editProfile :Toshi
+2022-09-08 15:25:12,767 :DEBUG :pytestsDemo.test_logging :A debug statement is executed
+2022-09-08 15:25:12,767 :INFO :pytestsDemo.test_logging :information statement
+2022-09-08 15:25:12,767 :WARNING :pytestsDemo.test_logging :Something is in warning mode
+2022-09-08 15:25:12,767 :ERROR :pytestsDemo.test_logging :A major error has occurred
+2022-09-08 15:25:12,767 :CRITICAL :pytestsDemo.test_logging :Critical issue
+2022-09-09 00:24:25,523 :INFO :test_editProfile :Nishita
+2022-09-09 00:24:25,525 :INFO :test_editProfile :Toshi
+2022-09-09 00:24:25,528 :DEBUG :pytestsDemo.test_logging :A debug statement is executed
+2022-09-09 00:24:25,528 :INFO :pytestsDemo.test_logging :information statement
+2022-09-09 00:24:25,529 :WARNING :pytestsDemo.test_logging :Something is in warning mode
+2022-09-09 00:24:25,529 :ERROR :pytestsDemo.test_logging :A major error has occurred
+2022-09-09 00:24:25,529 :CRITICAL :pytestsDemo.test_logging :Critical issue
+2022-09-09 10:49:34,024 :INFO :test_editProfile :Nishita
+2022-09-09 10:49:34,026 :INFO :test_editProfile :Toshi
